@@ -8,6 +8,16 @@ const app = express();
 
 const conn = require('./db/conn');
 
+// Models
+const Tought = require('./models/Tought');
+const User = require('./models/User');
+
+// Import Routes
+const toughtsRoutes = require('./routes/toughtsRoute');
+
+// Import Controllers
+const toughtControllelr = require('./controllers/ToughtController');
+
 // template engine
 app.engine('handlebars', exphbs.engine());
 app.set('view engine', 'handlebars');
@@ -56,8 +66,14 @@ app.use((req, res, next) => {
     next()    
 })
 
+// Routes
+app.use('/toughts', toughtsRoutes);
+
+app.get('/', toughtControllelr.showToughts)
+
 conn
-    .sync()
+    // .sync({ force: true })
+    .sync({})
     .then(() => {
         app.listen(3000);
     })
