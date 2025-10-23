@@ -30,6 +30,7 @@ As funcionalidades planejadas incluem listagem, busca, filtragem e submissão de
 * **Template Engine (Frontend):** Handlebars (utilizado com o NodeJS).
 * **IDE Recomendada:** Visual Studio Code, [(Download)](https://code.visualstudio.com/).
 * **Banco de Dados:** MySQL 8.0.44, [(Download)](https://dev.mysql.com/downloads/installer/).
+* **Gerenciamento de Banco de Dados:** WorkBench 8.0.44,  [(Download)](https://dev.mysql.com/downloads/workbench/).
 * **Ferramenta de Gerenciamento do BD:** XAMPP 8.0.30 [(Download)](https://www.apachefriends.org/pt_br/download.html).
 
 ### Roteiro para Executar a Aplicação
