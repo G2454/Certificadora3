@@ -26,11 +26,11 @@ As funcionalidades planejadas incluem listagem, busca, filtragem e submissão de
 
 ### Ferramentas e Tecnologias Utilizadas
 
-* **Linguagem / Ambiente de Execução (Backend e Frontend):** NodeJS.
+* **Linguagem / Ambiente de Execução:** Node.js v25.0.0, [(Download)](https://nodejs.org/pt/download/current).
 * **Template Engine (Frontend):** Handlebars (utilizado com o NodeJS).
-* **IDE Recomendada:** Visual Studio Code.
-* **Banco de Dados:** MySQL
-* **Ferramenta de Gerenciamento do BD:** XAMPP
+* **IDE Recomendada:** Visual Studio Code, [(Download)](https://code.visualstudio.com/).
+* **Banco de Dados:** MySQL 8.0.44, [(Download)](https://dev.mysql.com/downloads/installer/).
+* **Ferramenta de Gerenciamento do BD:** XAMPP 8.0.30 [(Download)](https://www.apachefriends.org/pt_br/download.html).
 
 ### Roteiro para Executar a Aplicação
 
@@ -47,6 +47,11 @@ As funcionalidades planejadas incluem listagem, busca, filtragem e submissão de
 2.  Clique no botão 'Cadastrar'
 3.  Preencha os campos e salve
 4.  Tente fazer login com o novo usuário
+
+### Contas de Acesso Padrão
+
+* **Usuário:** neymar@teste.com
+* **Senha:** 2910
 
 ## 6. Vídeo de Instalação e Execução
 
