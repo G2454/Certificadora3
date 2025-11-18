@@ -13,10 +13,12 @@ Desenvolvimento de um sistema web para apoiar o projeto de extensão "Meninas Di
 
 As funcionalidades planejadas incluem listagem, busca, filtragem e submissão de ideias, além de um sistema de cadastro e login para as participantes.
 
-## 3. Funcionalidades Desenvolvidas (até o momento)
+## 3. Funcionalidades Desenvolvidas 
 
 * Tela de Login (Interface e estilização).
 * Tela de Cadastro (Interface e estilização).
+* Tela de Pensamentos (Interface e estilização).
+* Tela de Dashboard (Interface e estilização).
 
 ## 4. Para Compilar e Executar o Sistema
 
@@ -51,8 +53,7 @@ As funcionalidades planejadas incluem listagem, busca, filtragem e submissão de
 
 ### Contas de Acesso Padrão
 
-* **Usuário:** neymar@teste.com
-* **Senha:** 2910
+Devido ao uso de banco local, o sistema não possui contas de acesso padrão pré-definidas. Para fins de teste o usuário deve criar sua conta.
 
 ## 6. Vídeo de Instalação e Execução
 
