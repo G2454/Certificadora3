@@ -38,8 +38,8 @@ As funcionalidades planejadas incluem listagem, busca, filtragem e submissão de
 ### Roteiro para Executar a Aplicação
 
 1.  Clone o repositório: `git clone https://github.com/G2454/Certificadora3`
-2.  Acesse a pasta do projeto: `cd Certificadora3`
-3.  Abra uma terminal integrado no arquivo index.js e digite `npm init -y`
+2.  Acesse a pasta do projeto
+3.  Abra uma terminal integrado no arquivo index.js e digite `npm install`
 4.  Posteriormente digite `npm start`
 
 ## 5. Para Testar o Sistema
@@ -55,6 +55,4 @@ As funcionalidades planejadas incluem listagem, busca, filtragem e submissão de
 
 Devido ao uso de banco local, o sistema não possui contas de acesso padrão pré-definidas. Para fins de teste o usuário deve criar sua conta.
 
-## 6. Vídeo de Instalação e Execução
 
-* **Link para o Vídeo (YouTube):** *(**Ainda preciso do link.**)*
