@@ -55,4 +55,7 @@ As funcionalidades planejadas incluem listagem, busca, filtragem e submissão de
 
 Devido ao uso de banco local, o sistema não possui contas de acesso padrão pré-definidas. Para fins de teste o usuário deve criar sua conta.
 
+### 6. Vídeo de instalação
+
+[Vídeo](https://youtu.be/TXYhk0TIzO0)
 
