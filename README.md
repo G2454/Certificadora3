@@ -13,10 +13,12 @@ Desenvolvimento de um sistema web para apoiar o projeto de extensão "Meninas Di
 
 As funcionalidades planejadas incluem listagem, busca, filtragem e submissão de ideias, além de um sistema de cadastro e login para as participantes.
 
-## 3. Funcionalidades Desenvolvidas (até o momento)
+## 3. Funcionalidades Desenvolvidas 
 
 * Tela de Login (Interface e estilização).
 * Tela de Cadastro (Interface e estilização).
+* Tela de Pensamentos (Interface e estilização).
+* Tela de Dashboard (Interface e estilização).
 
 ## 4. Para Compilar e Executar o Sistema
 
@@ -36,8 +38,8 @@ As funcionalidades planejadas incluem listagem, busca, filtragem e submissão de
 ### Roteiro para Executar a Aplicação
 
 1.  Clone o repositório: `git clone https://github.com/G2454/Certificadora3`
-2.  Acesse a pasta do projeto: `cd Certificadora3`
-3.  Abra uma terminal integrado no arquivo index.js e digite `npm init -y`
+2.  Acesse a pasta do projeto
+3.  Abra uma terminal integrado no arquivo index.js e digite `npm install`
 4.  Posteriormente digite `npm start`
 
 ## 5. Para Testar o Sistema
@@ -51,9 +53,9 @@ As funcionalidades planejadas incluem listagem, busca, filtragem e submissão de
 
 ### Contas de Acesso Padrão
 
-* **Usuário:** neymar@teste.com
-* **Senha:** 2910
+Devido ao uso de banco local, o sistema não possui contas de acesso padrão pré-definidas. Para fins de teste o usuário deve criar sua conta.
 
-## 6. Vídeo de Instalação e Execução
+### 6. Vídeo de instalação
 
-* **Link para o Vídeo (YouTube):** *(**Ainda preciso do link.**)*
+[Vídeo](https://youtu.be/TXYhk0TIzO0)
+
